@@ -6,6 +6,10 @@ A very basic ToDo List Application for all the Android Enthusiasts !
 Chat with us on [Slack](https://opencodeiiita.slack.com/)
 Like us on [Facebook](https://www.facebook.com/opencodeiiita/)
 
+
+@duckthatquantum Editior Profile | 
+Connect on [LinkedIn](https://www.linkedin.com/in/chadlsmathersofficial/)
+
 ## Requirements
 Basic Git and Github. (Feel free to contact any mentor if you have any issue regarding Git and Github.)
 
