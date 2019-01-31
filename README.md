@@ -1,11 +1,6 @@
 # ToDo-List-App
 
-
-A very basic ToDo List Application for all the Android Enthusiasts !
-
-Chat with us on [Slack](https://opencodeiiita.slack.com/)
-Like us on [Facebook](https://www.facebook.com/opencodeiiita/)
-
+A basic ToDo List Application for all the Android Enthusiasts!
 
 @duckthatquantum Editior Profile | 
 Connect on [LinkedIn](https://www.linkedin.com/in/chadlsmathersofficial/)
